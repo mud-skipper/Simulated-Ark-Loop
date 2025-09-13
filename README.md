@@ -1,5 +1,7 @@
 # Simulated Ark: Loop 🚀🔄
 
+![Retro Cover Banner](https://raw.githubusercontent.com/mud-skipper/Simulated-Ark-Loop/main/visuals/story_cover_retro.png)
+
 Multi-layered SF simulation inspired by Clarke & Lem: Humanity in a climate loop on a Proxima b probe. Code, story, visuals included.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python) ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
