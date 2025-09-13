@@ -10,7 +10,7 @@ Multi-layered SF simulation inspired by Clarke & Lem: Humanity in a climate loop
 What if Earth is a sim-ark to escape climate doom... but it loops forever? Blends cli-fi narrative (2147: Elara builds quantum ark; 2972: Kael glitches out) with Python model of CO₂/temp rise + natural forcings (IPCC consensus + Svensmark skeptics). Glitches: Flickering stars, false memories. Twist: Von Neumann probe to Proxima b. "How many times will you repeat?"
 
 ## Story
-Full English PDF: [Download from Releases](https://github.com/mud-skipper/Simulated-Ark-Loop/releases/download/v1.0/Simulated-Ark-Loop_en.pdf) (with retro poster cover inside).
+Full English PDF: [Download Now](https://github.com/mud-skipper/Simulated-Ark-Loop/releases/download/v1.0/Simulated-Ark-Loop_en.pdf) (with retro poster cover inside).
 TL;DR: Layers collapse at >750ppm CO₂. Echoes of Solaris & Cyberiada.
 
 ## Code
